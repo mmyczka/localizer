@@ -1,3 +1,5 @@
+USE localizer;
+
 WITH ItemPath AS (
     SELECT
         id,
